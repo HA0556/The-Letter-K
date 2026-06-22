@@ -1,4 +1,4 @@
-# The Letter K
+# The Letter K - Visual Search Task
 A text-based Python project where the user's goal is to find the target item
 containing the letter K within a list of distractors. There are 8 trials,
 each presented only once, with difficulty increasing each round. Difficulty
