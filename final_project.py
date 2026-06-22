@@ -14,7 +14,7 @@
 # purposes only. It is not a scientific assessment of attention,
 # perception, or cognitive ability.
 # -------------------------------------------- #
-print('\033c')
+
 
 import random
 import string
